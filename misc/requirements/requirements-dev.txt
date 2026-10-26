@@ -5,7 +5,7 @@ anyio==4.15.1
 backports.tarfile==1.2.0
 bracex==3.1
 build==1.6.1
-bump-my-version==1.6.3
+bump-my-version==1.6.7
 certifi==2026.10.19
 cffi==2.1.1
 charset-normalizer==3.5.2
